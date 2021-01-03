@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "578611555570",
+    "firebase_url": "https://qrcodescannerml.firebaseio.com",
+    "project_id": "qrcodescannerml",
+    "storage_bucket": "qrcodescannerml.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578611555570:android:999a48ffa53c087634746b",
+        "android_client_info": {
+          "package_name": "com.alcheringa.qrcodescanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578611555570-q16e4dh6q5pb3lne8m5d952p6up36ko2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alcheringa.qrcodescanner",
+            "certificate_hash": "6dc575c3387be317111f53f431d1da55bc1c60ef"
+          }
+        },
+        {
+          "client_id": "578611555570-1820v6s2vuvejm2c4mkrc5lgnclm3lp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzUh1L_2TUTwQhSLTbkvk9ceUdZzTGACc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578611555570-1820v6s2vuvejm2c4mkrc5lgnclm3lp4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
